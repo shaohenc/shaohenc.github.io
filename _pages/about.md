@@ -18,7 +18,7 @@ Please refer to my <a href="https://scholar.google.com/citations?user=8m8Iiu8AAA
 
 2. *Stability and dynamics of many-body localized systems coupled to a small bath* <br> **Shao-Hen Chiew**, Jiangbin Gong, Leong-Chuan Kwek, Chee-Kong Lee <br> <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.224202" target="_blank">Physical Review B 107 (22), 224202.</a>
 
-3. *OpenQAOA--An SDK for QAOA* <br> Vishal Sharma, Nur Shahidee Bin Saharan **Shao-Hen Chiew**, Ezequiel Ignacio Rodríguez Chiacchio, Leonardo Disilvestro, Tommaso Federico Demarie, Ewan Munro <br> <a href="https://arxiv.org/abs/2210.08695" target="_blank">arXiv (2022).</a>
+3. *OpenQAOA--An SDK for QAOA* <br> Vishal Sharma, Nur Shahidee Bin Saharan, **Shao-Hen Chiew**, Ezequiel Ignacio Rodríguez Chiacchio, Leonardo Disilvestro, Tommaso Federico Demarie, Ewan Munro <br> <a href="https://arxiv.org/abs/2210.08695" target="_blank">arXiv (2022).</a>
 
 4. *Improving sum uncertainty relations with the quantum Fisher information* <br> **Shao-Hen Chiew**, Manuel Gessner <br> <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.013076" target="_blank">Physical Review Research 4 (1), 013076.</a>
 
@@ -26,4 +26,6 @@ Please refer to my <a href="https://scholar.google.com/citations?user=8m8Iiu8AAA
 
 6. *Fourth-order leapfrog algorithms for numerical time evolution of classical and quantum systems* <br> Jun Hao Hue, Ege Eren, **Shao Hen Chiew**, Jonathan Wei Zhong Lau, Leo Chang, Thanh Tri Chau, Martin-Isbjörn Trappe, Berthold-Georg Englert <br> <a href="https://arxiv.org/abs/2007.05308" target="_blank">arXiv (2020).</a>
 
+## Talks:
 
+1. *Combinatorial optimisation through OpenQAOA* <br> Qiskit Fall Fest 2022
