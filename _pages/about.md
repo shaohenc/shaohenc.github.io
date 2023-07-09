@@ -22,7 +22,7 @@ Related publications:
 
 
 ## Research Experiences:
-
+Ordered by recent first.
 - **Ongoing Research Project (Center of Quantum Technologies, NUS)**  
 **Duration** : From	Dec-2022	To	Current  
 **Supervisor** :	Leong-Chuan Kwek    
@@ -62,8 +62,8 @@ Related publications:
 **Publication(s)** :
   - *Fourth-order leapfrog algorithms for numerical time evolution of classical and quantum systems* <br> Jun Hao Hue, Ege Eren, **Shao Hen Chiew**, Jonathan Wei Zhong Lau, Leo Chang, Thanh Tri Chau, Martin-Isbjörn Trappe, Berthold-Georg Englert <br> <a href="https://arxiv.org/abs/2007.05308" target="_blank">arXiv (2020).</a>
   
-## Other Experiences:
-See also the [Teaching](teaching.md) section for teaching experiences.
+## Non-quantum / Other Experiences:
+Ordered by recent first. See also the [Teaching](teaching.md) section for teaching experiences.
 
 - **Machine learning engineer internship (Fairphonic Singapore)**  
 **Duration** : From	Jun-2020	To	Aug-2020  
