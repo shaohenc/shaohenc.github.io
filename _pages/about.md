@@ -13,9 +13,7 @@ My research interest lies at the intersection of quantum computing, quantum info
 I obtained my **BSc. Physics (2021)** and **MSc. Physics (2023)** from the National University of Singapore, and my **MSc. Engineering/diplôme d'ingénieur (2023)** from Mines Paris-PSL, as a part of the [NUS French Double Degree Programme](https://fddp.nus.edu.sg/index.html).
 
 ## Current employment:
-I am currently a Quantum Computing Scientist at Entropica Labs working on quantum algorithms for optimization applications and fault-tolerant quantum error correction. The scopes of my work are:
-- Research, development and implementation of near-term quantum algorithms and error-mitigation techniques on existing quantum hardware (superconducting qubits, ion traps).
-- Python developer of software tools for quantum algorithms such as [OpenQAOA](https://github.com/entropicalabs/openqaoa).
+I am currently a Quantum Computing Scientist at Entropica Labs working on quantum algorithms for optimization applications and fault-tolerant quantum error correction. The main scopes of my work are the research, development and implementation of near-term quantum algorithms, error-mitigation techniques, and error-correction codes on existing quantum hardware (superconducting qubits, ion traps). I am also a Python developer of software tools for quantum algorithms such as [OpenQAOA](https://github.com/entropicalabs/openqaoa).
 
 Related publications:
 - *OpenQAOA--An SDK for QAOA* <br> Vishal Sharma, Nur Shahidee Bin Saharan, **Shao-Hen Chiew**, Ezequiel Ignacio Rodríguez Chiacchio, Leonardo Disilvestro, Tommaso Federico Demarie, Ewan Munro <br> <a href="https://arxiv.org/abs/2210.08695" target="_blank">arXiv (2022).</a>
