@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shao-Hen Chiew"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Quantum Computing Scientist"
   location         : "Singapore"
   employer         :
