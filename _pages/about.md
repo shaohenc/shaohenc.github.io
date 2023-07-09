@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## Brief Bio:
 My research interest lies at the intersection of quantum computing, quantum information, and many-body physics. 
 
 I obtained my **BSc. Physics (2021)** and **MSc. Physics (2023)** from the National University of Singapore, and my **MSc. Engineering/diplôme d'ingénieur (2023)** from Mines Paris-PSL, as a part of the [NUS French Double Degree Programme](https://fddp.nus.edu.sg/index.html).
