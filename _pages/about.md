@@ -69,7 +69,7 @@ Ordered by recent first. See also the [Teaching](teaching.md) section for teachi
 
 - **Blue collar logistics internship (Société Internationale de Diffusion et d'Edition, Paris)**  
 **Duration** : From	Jan-2019	To	Mar-2019  
-**Brief Description** : Compulsory blue collar engineering internship required. Assisted a logistics engineer in the operations of a production chain in a book distribution warehouse.
+**Brief Description** : Compulsory blue collar engineering internship. Assisted a logistics engineer in the operations of a production chain in a book distribution warehouse.
 
 - **Engineering research project (Centre des Matériaux de Mines-PSL, Paris)**  
 **Duration** :	Nov-2018  
