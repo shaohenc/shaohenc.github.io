@@ -16,6 +16,7 @@ I obtained my **BSc. Physics (2021)** and **MSc. Physics (2023)** from the Natio
 I am currently a Senior Quantum Computing Scientist at Entropica Labs working on quantum algorithms for optimization applications and fault-tolerant quantum error correction. The main scopes of my work are the research, development and implementation of near-term quantum algorithms, error-mitigation techniques, and error-correction codes on existing quantum hardware (superconducting qubits, ion traps), usually towards scientific publications and patents. I also develop software tools in Python for quantum algorithms, such as [OpenQAOA](https://openqaoa.entropicalabs.com/).
 
 Related publications:
+- *Multi-Objective Optimization and Network Routing with Near-Term Quantum Computers* <br> **Shao-Hen Chiew**, Kilian Poirier, Rajesh Mishra, Ulrike Bornheimer, Ewan Munro, Si Han Foon, Christopher Wanru Chen, Wei Sheng Lim, Chee Wei Nga <br> <a href="https://arxiv.org/abs/2308.08245" target="_blank">arXiv (2023).</a>
 - *OpenQAOA--An SDK for QAOA* <br> Vishal Sharma, Nur Shahidee Bin Saharan, **Shao-Hen Chiew**, Ezequiel Ignacio Rodríguez Chiacchio, Leonardo Disilvestro, Tommaso Federico Demarie, Ewan Munro <br> <a href="https://arxiv.org/abs/2210.08695" target="_blank">arXiv (2022).</a>
 
 
