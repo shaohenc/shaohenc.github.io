@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
@@ -10,3 +10,6 @@ author_profile: true
 1. *Combinatorial optimisation through OpenQAOA* <br> Qiskit Fall Fest 2022 <br> 18 October 2022, Invited talk
 1. *Exploring the Dynamics of Quantum Information in Many-Body Localised Systems with High Performance Computing* <br> 2022 Asian Conference on Supercomputing Frontiers <br> 01 - 03 March 2022, Contributed talk
 
+## Seminars:
+1. *Scalable Quantum Computation of Highly Excited Eigenstates with Spectral Transforms*, 22 Aug 2023, NUS Centre for Quantum Technologies, Singapore
+1. *Improving sum uncertainty relations with the quantum Fisher information*, 23 July 2020, École Normale Supérieure, Paris
