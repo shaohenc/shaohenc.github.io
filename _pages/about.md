@@ -19,6 +19,8 @@ Related publications:
 - *Multi-Objective Optimization and Network Routing with Near-Term Quantum Computers* <br> **Shao-Hen Chiew**, Kilian Poirier, Rajesh Mishra, Ulrike Bornheimer, Ewan Munro, Si Han Foon, Christopher Wanru Chen, Wei Sheng Lim, Chee Wei Nga <br> <a href="https://arxiv.org/abs/2308.08245" target="_blank">arXiv (2023).</a>
 - *OpenQAOA--An SDK for QAOA* <br> Vishal Sharma, Nur Shahidee Bin Saharan, **Shao-Hen Chiew**, Ezequiel Ignacio Rodríguez Chiacchio, Leonardo Disilvestro, Tommaso Federico Demarie, Ewan Munro <br> <a href="https://arxiv.org/abs/2210.08695" target="_blank">arXiv (2022).</a>
 
+Others:
+- *Optimization with OpenQAOA on Amazon Braket,* <a href="https://aws.amazon.com/blogs/quantum-computing/optimization-with-openqaoa-on-amazon-braket/" target="_blank">AWS Quantum Technologies Blog (2023).</a>
 
 ## Research Experiences:
 Ordered by recent first.
