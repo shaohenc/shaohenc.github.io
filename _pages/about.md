@@ -10,10 +10,10 @@ redirect_from:
 
 My research interest lies at the intersection of quantum computing, quantum information, and many-body physics. 
 
-I obtained my **BSc. Physics (2021)** and **MSc. Physics (2023)** from the National University of Singapore, and my **MSc. Engineering/diplôme d'ingénieur (2023)** from Mines Paris-PSL, as a part of the [NUS French Double Degree Programme](https://fddp.nus.edu.sg/index.html).
+I obtained my **BSc. Physics (2021)** and **MSc. Physics (2023)** from the National University of Singapore, and my **MSc. Engineering/diplôme d'ingénieur (2023)** from Mines Paris-PSL, as a part of the concurrent Masters [NUS French Double Degree Programme](https://fddp.nus.edu.sg/index.html).
 
 ## Current employment:
-I have been working full-time with Entropica Labs since Sept 2021, and am currently a Senior Quantum Computing Scientist working on quantum algorithms for optimization applications and fault-tolerant quantum error correction. The main scopes of my work are the research, development and implementation of near-term quantum algorithms, error-mitigation techniques, and error-correction codes on existing quantum hardware (superconducting qubits, ion traps), usually towards scientific publications and patents. I also develop software tools in Python for quantum algorithms, such as [OpenQAOA](https://openqaoa.entropicalabs.com/).
+I have been working full-time with Entropica Labs since Sept 2021, and am currently a Senior Quantum Computing Scientist working on quantum algorithms for optimization applications and fault-tolerant quantum error correction. The main scopes of my work are the research, development and implementation of near-term quantum algorithms, error-mitigation techniques, and error-correction codes on existing quantum hardware (with emphasis on superconducting qubit and ion trap platforms), usually towards patents and scientific publications. I also develop software tools in Python for quantum algorithms and quantum error-correction, such as [OpenQAOA](https://openqaoa.entropicalabs.com/).
 
 Related publications:
 - *Multi-Objective Optimization and Network Routing with Near-Term Quantum Computers* <br> **Shao-Hen Chiew**, Kilian Poirier, Rajesh Mishra, Ulrike Bornheimer, Ewan Munro, Si Han Foon, Christopher Wanru Chen, Wei Sheng Lim, Chee Wei Nga <br> <a href="https://arxiv.org/abs/2308.08245" target="_blank">arXiv (2023).</a>
@@ -54,7 +54,7 @@ Ordered by recent first.
 - **Summer Research Project (Center of Quantum Technologies, NUS)**  
 **Duration** : From	Jun-2018	To	Aug-2018  
 **Supervisor** :	Berthold-Georg Englert  
-**Brief Description** : Optimization algorithms for quantum state discrimination.
+**Brief Description** : Quantum information, optimization algorithms for quantum state discrimination.
   
 - **Undergraduate Research Project (UROPS) (Center of Quantum Technologies, NUS)**  
 **Duration** : From	Aug-2017	To	Jan-2018  
