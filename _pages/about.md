@@ -13,6 +13,7 @@ My research interest lies at the intersection of quantum computing, quantum info
 I obtained my **BSc. Physics (2021)** and **MSc. Physics (2023)** from the National University of Singapore, and my **MSc. Engineering/diplôme d'ingénieur (2023)** from Mines Paris-PSL, as a part of the concurrent Masters [NUS French Double Degree Programme](https://fddp.nus.edu.sg/index.html).
 
 ## Current employment:
+---
 I have been working full-time with Entropica Labs since Sept 2021, and am currently a Senior Quantum Computing Scientist working on quantum algorithms for optimization applications and fault-tolerant quantum error correction. The main scopes of my work are the research, development and implementation of near-term quantum algorithms, error-mitigation techniques, and error-correction codes on existing quantum hardware (with emphasis on superconducting qubit and ion trap platforms), usually towards patents and scientific publications. I also develop software tools in Python for quantum algorithms and quantum error-correction, such as [OpenQAOA](https://openqaoa.entropicalabs.com/).
 
 Related publications:
@@ -23,6 +24,7 @@ Others:
 - *Optimization with OpenQAOA on Amazon Braket,* <a href="https://aws.amazon.com/blogs/quantum-computing/optimization-with-openqaoa-on-amazon-braket/" target="_blank">AWS Quantum Technologies Blog (2023).</a>
 
 ## Research Experiences:
+---
 Ordered by recent first.
 - **Ongoing Research Project (Center of Quantum Technologies, NUS)**  
 **Duration** : From	Dec-2022	To	Current  
@@ -64,6 +66,7 @@ Ordered by recent first.
   - *Fourth-order leapfrog algorithms for numerical time evolution of classical and quantum systems* <br> Jun Hao Hue, Ege Eren, **Shao Hen Chiew**, Jonathan Wei Zhong Lau, Leo Chang, Thanh Tri Chau, Martin-Isbjörn Trappe, Berthold-Georg Englert <br> <a href="https://arxiv.org/abs/2007.05308" target="_blank">arXiv (2020).</a>
   
 ## Non-quantum / Other Experiences:
+---
 Ordered by recent first. See also the [Teaching](teaching.md) section for teaching experiences.
 
 - **Machine learning engineer internship (Fairphonic Singapore)**  
