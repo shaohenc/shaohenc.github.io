@@ -14,6 +14,7 @@ I obtained my **BSc. Physics (2021)** and **MSc. Physics (2023)** from the Natio
 
 ## Current employment:
 ---
+
 I have been working full-time with Entropica Labs since Sept 2021, and am currently a Senior Quantum Computing Scientist working on quantum algorithms for optimization applications and fault-tolerant quantum error correction. The main scopes of my work are the research, development and implementation of near-term quantum algorithms, error-mitigation techniques, and error-correction codes on existing quantum hardware (with emphasis on superconducting qubit and ion trap platforms), usually towards patents and scientific publications. I also develop software tools in Python for quantum algorithms and quantum error-correction, such as [OpenQAOA](https://openqaoa.entropicalabs.com/).
 
 Related publications:
@@ -25,6 +26,7 @@ Others:
 
 ## Research Experiences:
 ---
+
 Ordered by recent first.
 - **Ongoing Research Project (Center of Quantum Technologies, NUS)**  
 **Duration** : From	Dec-2022	To	Current  
@@ -67,6 +69,7 @@ Ordered by recent first.
   
 ## Non-quantum / Other Experiences:
 ---
+
 Ordered by recent first. See also the [Teaching](teaching.md) section for teaching experiences.
 
 - **Machine learning engineer internship (Fairphonic Singapore)**  
