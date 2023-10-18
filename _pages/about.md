@@ -47,7 +47,7 @@ Ordered by recent first.
 - **Research Intership (Laboratoire Kastler Brossel, ENS Ulm Paris)**  
 **Duration** : From	Jun-2019	To	Jan-2020  
 **Supervisor** :	Manuel Gessner  
-**Brief Description** : Theoretical project on quantum information. Analytical generalization of uncertainty relations using the quantum Fisher information, and their role in constructing stronger entanglement witnesses and sensitivity limits for phase estimation.  
+**Brief Description** : Theoretical project on quantum information and metrology. Analytical generalization of uncertainty relations using the quantum Fisher information, and their role in constructing stronger entanglement witnesses and sensitivity limits for phase estimation.  
 **Publication(s)** :
   - *Improving sum uncertainty relations with the quantum Fisher information* <br> **Shao-Hen Chiew**, Manuel Gessner <br> <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.013076" target="_blank">Physical Review Research 4 (1), 013076.</a>
 
