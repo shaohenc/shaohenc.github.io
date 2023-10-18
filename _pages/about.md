@@ -29,18 +29,18 @@ Ordered by recent first.
 **Supervisor** :	Leong-Chuan Kwek    
 **Brief Description** : (1) Extension of theoretical and numerical analyses of quantum algorithms to study the spectral properties of physical and chemical Hamiltonians. (2) Applications of variational quantum algorithms to study the spectral properties of many-body localized systems.   
 
-- **MSc. Final Year Project (Center of Quantum Technologies, NUS)**  
+- **MSc. Thesis Research (Center of Quantum Technologies, NUS)**  
 **Duration** : From	Aug-2021	To	Dec-2022  
-**Supervisor** :	Leong-Chuan Kwek, Jiangbin Gong, Chee-Kong Lee  
+**Advisors** :	Leong-Chuan Kwek, Jiangbin Gong, Chee-Kong Lee  
 **Brief Description** : (1) Theoretical and numerical analyses of quantum algorithms (QLSP solvers such as the HHL algorithm) to study the spectral properties of physical and chemical Hamiltonians. (2) Theoretical and numerical study of the information-theoretic properties of many-body localized systems.   
 **Publication(s)** :
   - *Scalable Quantum Computation of Highly Excited Eigenstates with Spectral Transforms* <br> **Shao-Hen Chiew**, Leong-Chuan Kwek <br> <a href="https://arxiv.org/abs/2302.06638" target="_blank">arXiv (2023).</a>
   - *Exploring the Dynamics of Quantum Information in Many-Body Localised Systems with High Performance Computing* <br> **Shao-Hen Chiew**, Leong-Chuan Kwek, Chee-Kong Lee <br> <a href="https://link.springer.com/chapter/10.1007/978-3-031-10419-0_4" target="_blank">Asian Conference on Supercomputing Frontiers, 43-58.</a>
   
-- **BSc. Final Year Project (Center of Quantum Technologies, NUS)**  
+- **BSc. Thesis Research (Center of Quantum Technologies, NUS)**  
 **Duration** : From	Aug-2020	To	Aug-2021  
-**Supervisor** :	Leong-Chuan Kwek, Jiangbin Gong, Chee-Kong Lee  
-**Brief Description** : Numerical study of many-body localized systems in an open-system setting. Exploration on open quantum systems, tensor network methods.  
+**Advisors** :	Leong-Chuan Kwek, Jiangbin Gong, Chee-Kong Lee  
+**Brief Description** : Study of disordered many-body localized systems in an open-system setting, with an emphasis in computational methods. Exploration on open quantum systems, tensor network methods.  
 **Publication(s)** :
   - *Stability and dynamics of many-body localized systems coupled to a small bath* <br> **Shao-Hen Chiew**, Jiangbin Gong, Leong-Chuan Kwek, Chee-Kong Lee <br> <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.224202" target="_blank">Physical Review B 107 (22), 224202.</a>
 
