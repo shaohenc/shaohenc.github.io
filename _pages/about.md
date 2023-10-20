@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My research interests lie at the intersection of quantum computing, quantum information, and many-body physics. Most recently, it has converged to thinking about how quantum computers can help study physical and chemical systems in novel ways, and their relation and possible advantages over classical techniques. 
+My research interests lie at the intersection of quantum computing, quantum information, and many-body physics, with an emphasis on computational methods. Most recently, it has converged to thinking about how quantum computers can help study physical and chemical systems in novel ways, and their relation and possible advantages over classical techniques. 
 
 I hold a **BSc. Physics (2021)** and **MSc. Physics (2023)** from the National University of Singapore, and my **MSc. Engineering/diplôme d'ingénieur (2023)** from Mines Paris-PSL, as a part of the concurrent Masters [NUS French Double Degree Programme](https://fddp.nus.edu.sg/index.html).
 
