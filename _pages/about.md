@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-My research interests lie at the intersection of quantum computing, quantum information, and many-body physics, with an emphasis on computational methods. Most recently, it has converged to thinking about how quantum computers can help study physical and chemical systems in novel ways, and their relation and possible advantages over classical techniques. 
+My research interests lie at the intersection of quantum computing, quantum information, and many-body physics, with an emphasis on computational methods on both classical and quantum computers.
 
-I hold a **BSc. Physics (2021)** and **MSc. Physics (2023)** from the National University of Singapore, and my **MSc. Engineering/diplôme d'ingénieur (2023)** from Mines Paris-PSL, as a part of the concurrent Masters [NUS French Double Degree Programme](https://fddp.nus.edu.sg/index.html).
+I hold a **BSc. Physics (2021)** and **MSc. Physics (2023)** from the National University of Singapore, and a **MSc. Engineering/diplôme d'ingénieur (2023)** from Mines Paris-PSL, as a part of the concurrent Masters [NUS French Double Degree Programme](https://fddp.nus.edu.sg/index.html).
 
 ## Current employment:
-I have been working full-time with Entropica Labs since Sept 2021, and am currently a Senior Quantum Computing Scientist working on quantum algorithms for optimization applications and fault-tolerant quantum error correction. The main scopes of my work are the research, development and implementation of near-term quantum algorithms, error-mitigation techniques, and error-correction codes on existing quantum hardware (with emphasis on superconducting qubit and ion trap platforms), usually towards patents and scientific publications. I also develop software tools in Python for quantum algorithms and quantum error-correction, such as [OpenQAOA](https://openqaoa.entropicalabs.com/).
+I have been working full-time with Entropica Labs since Sept 2021, and am currently a Senior Quantum Computing Scientist working on fault-tolerant quantum error correction and quantum algorithms for optimization applications. The main scopes of my work are the research, development and implementation of near-term quantum algorithms, error-mitigation techniques, and error-correction codes on existing quantum hardware, usually towards patents and scientific publications. I also develop software tools in Python for quantum algorithms and quantum error-correction, such as [OpenQAOA](https://openqaoa.entropicalabs.com/).
 
-Related publications:
+    Related publications:
 - *Multi-Objective Optimization and Network Routing with Near-Term Quantum Computers* <br> **Shao-Hen Chiew**, Kilian Poirier, Rajesh Mishra, Ulrike Bornheimer, Ewan Munro, Si Han Foon, Christopher Wanru Chen, Wei Sheng Lim, Chee Wei Nga <br> <a href="https://arxiv.org/abs/2308.08245" target="_blank">arXiv (2023).</a>
 - *OpenQAOA--An SDK for QAOA* <br> Vishal Sharma, Nur Shahidee Bin Saharan, **Shao-Hen Chiew**, Ezequiel Ignacio Rodríguez Chiacchio, Leonardo Disilvestro, Tommaso Federico Demarie, Ewan Munro <br> <a href="https://arxiv.org/abs/2210.08695" target="_blank">arXiv (2022).</a>
 
-Others:
+    Others:
 - *Optimization with OpenQAOA on Amazon Braket,* <a href="https://aws.amazon.com/blogs/quantum-computing/optimization-with-openqaoa-on-amazon-braket/" target="_blank">AWS Quantum Technologies Blog (2023).</a>
 
 ## Research Experiences:
