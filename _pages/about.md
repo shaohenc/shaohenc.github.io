@@ -32,7 +32,7 @@ Ordered by recent first.
 - **MSc. Thesis Research (Center of Quantum Technologies, NUS)**  
 **Duration** : From	Aug-2021	To	Dec-2022  
 **Advisors** :	Leong-Chuan Kwek, Jiangbin Gong, Chee-Kong Lee  
-**Brief Description** : (1) Theoretical and numerical analyses of quantum algorithms (QLSP solvers such as the HHL algorithm) to study the spectral properties of physical and chemical Hamiltonians. (2) Theoretical and numerical study of the information-theoretic properties of many-body localized systems.   
+**Brief Description** : (1) Theoretical and numerical analyses of quantum algorithms to study the spectral properties of physical and chemical Hamiltonians. We proposed and analyzed the complexity of a quantum algorithm that is able to solve for highly-excited eigenstates in a targeted manner, using QLSP solvers as a subroutine. (2) Theoretical and numerical study of the information-theoretic properties of many-body localized systems. We studied the ergodic-localization phase transition of the disordered Heisenberg model, using sum-uncertainty relations involving the quantum Fisher information for entanglement detection.    
 **Publication(s)** :
   - *Scalable Quantum Computation of Highly Excited Eigenstates with Spectral Transforms* <br> **Shao-Hen Chiew**, Leong-Chuan Kwek <br> <a href="https://arxiv.org/abs/2302.06638" target="_blank">arXiv (2023).</a>
   - *Exploring the Dynamics of Quantum Information in Many-Body Localised Systems with High Performance Computing* <br> **Shao-Hen Chiew**, Leong-Chuan Kwek, Chee-Kong Lee <br> <a href="https://link.springer.com/chapter/10.1007/978-3-031-10419-0_4" target="_blank">Asian Conference on Supercomputing Frontiers, 43-58.</a>
