@@ -27,7 +27,7 @@ Ordered by recent first.
 - **Ongoing Research Project (Center of Quantum Technologies, NUS)**  
 **Duration** : From	Dec-2022	To	Current  
 **Supervisor** :	Leong-Chuan Kwek    
-**Brief Description** : (1) Extension of theoretical and numerical analyses of quantum algorithms to study the spectral properties of physical and chemical Hamiltonians. (2) Applications of variational quantum algorithms to study the spectral properties of many-body localized systems.   
+**Brief Description** : (1) Extension and generalization of our proposed quantum algorithm to larger classes of spectral transformations to study the spectral properties of physical and chemical Hamiltonians. Implementation on existing quantum computers to study the ergodic-MBL mobility edge.  
 
 - **MSc. Thesis Research (Center of Quantum Technologies, NUS)**  
 **Duration** : From	Aug-2021	To	Dec-2022  
