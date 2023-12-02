@@ -20,3 +20,7 @@ Recent first. Please refer to <a href="https://scholar.google.com/citations?user
 1. *Exploring the Dynamics of Quantum Information in Many-Body Localised Systems with High Performance Computing* <br> **Shao-Hen Chiew**, Leong-Chuan Kwek, Chee-Kong Lee <br> <a href="https://link.springer.com/chapter/10.1007/978-3-031-10419-0_4" target="_blank">Asian Conference on Supercomputing Frontiers, 43-58.</a>
 
 1. *Fourth-order leapfrog algorithms for numerical time evolution of classical and quantum systems* <br> Jun Hao Hue, Ege Eren, **Shao Hen Chiew**, Jonathan Wei Zhong Lau, Leo Chang, Thanh Tri Chau, Martin-Isbjörn Trappe, Berthold-Georg Englert <br> <a href="https://arxiv.org/abs/2007.05308" target="_blank">arXiv (2020).</a>
+
+
+## Others:
+1. *Optimization with OpenQAOA on Amazon Braket,* <a href="https://aws.amazon.com/blogs/quantum-computing/optimization-with-openqaoa-on-amazon-braket/" target="_blank">AWS Quantum Technologies Blog (2023).</a>
