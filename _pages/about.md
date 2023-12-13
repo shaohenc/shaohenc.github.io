@@ -13,7 +13,7 @@ My research interests lie at the intersection of quantum computing, quantum info
 I hold a **BSc. Physics (2021)** and **MSc. Physics (2023)** from the National University of Singapore, and a **MSc. Engineering/diplôme d'ingénieur (2023)** from Mines Paris-PSL, as a part of the concurrent Masters [NUS French Double Degree Programme](https://fddp.nus.edu.sg/index.html).
 
 ## Current employment:
-I have been working full-time with Entropica Labs since Sept 2021, and am currently a Senior Quantum Computing Scientist working on fault-tolerant quantum error correction and quantum algorithms for optimization applications. The main scopes of my work are the research, development and implementation of near-term quantum algorithms, error-mitigation techniques, and error-correction codes. In particular, my current research focus is the development of efficient simulation tools to study the fault-tolerance of error propagation properties of quantum error-correction codes, and their efficient implementation on existing hardware.  I also develop software tools in Python, such as [OpenQAOA](https://openqaoa.entropicalabs.com/).
+I have been working full-time with Entropica Labs since Sept 2021, and am currently a Senior Quantum Computing Scientist working on fault-tolerant quantum error correction and quantum algorithms for optimization applications. The main scopes of my work are the research, development and implementation of near-term quantum algorithms, error-mitigation techniques, and error-correction codes. My current research focus is the development of efficient simulation tools to study the fault-tolerance of error propagation properties of quantum error-correction codes, and their efficient implementation on existing hardware.  I also develop software tools in Python, such as [OpenQAOA](https://openqaoa.entropicalabs.com/).
 
     Related publications:
 - *Multi-Objective Optimization and Network Routing with Near-Term Quantum Computers* <br> **Shao-Hen Chiew**, Kilian Poirier, Rajesh Mishra, Ulrike Bornheimer, Ewan Munro, Si Han Foon, Christopher Wanru Chen, Wei Sheng Lim, Chee Wei Nga <br> <a href="https://arxiv.org/abs/2308.08245" target="_blank">arXiv (2023).</a>
@@ -23,11 +23,13 @@ I have been working full-time with Entropica Labs since Sept 2021, and am curren
 - *Optimization with OpenQAOA on Amazon Braket,* <a href="https://aws.amazon.com/blogs/quantum-computing/optimization-with-openqaoa-on-amazon-braket/" target="_blank">AWS Quantum Technologies Blog (2023).</a>
 
 ## Research Experiences:
+My main research interests lie in understanding quantum information processing and many-body physics from an information-theoretic perspective. I am also interested in computational tools such as tensor networks that have deep connections to entanglement.
+
 Ordered by recent first.
 - **Ongoing Research Project (Center of Quantum Technologies, NUS)**  
 **Duration** : From	Dec-2022	To	Current  
 **Supervisor** :	Leong-Chuan Kwek    
-**Brief Description** : (1) Extension and generalization of our proposed quantum algorithm to larger classes of spectral transformations to study the spectral properties of physical and chemical Hamiltonians. Implementation on existing quantum computers to study the ergodic-MBL mobility edge.  
+**Brief Description** : Extension and generalization of our proposed quantum algorithm to larger classes of spectral transformations to study the spectral properties of physical and chemical Hamiltonians. Implementation on quantum computers to probe the ergodic-MBL mobility edge.  
 
 - **MSc. Thesis Research (Center of Quantum Technologies, NUS)**  
 **Duration** : From	Aug-2021	To	Dec-2022  
