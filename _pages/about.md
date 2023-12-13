@@ -56,12 +56,12 @@ Ordered by recent first.
 - **Summer Research Project (Center of Quantum Technologies, NUS)**  
 **Duration** : From	Jun-2018	To	Aug-2018  
 **Supervisor** :	Berthold-Georg Englert  
-**Brief Description** : Quantum information, optimization algorithms for quantum state discrimination.
+**Brief Description** : Investigation on the quantum state discrimination problem. Studied implementations of classical optimization algorithms to search for measurements protocols (POVMs) that maximize accessible information.
   
 - **Undergraduate Research Project (UROPS) (Center of Quantum Technologies, NUS)**  
 **Duration** : From	Aug-2017	To	Jan-2018  
 **Supervisor** :	Berthold-Georg Englert  
-**Brief Description** : Numerical study on the integration of classical equations of motions using a set of new quantum-inspired Trotterization algorithm, benchmarking, and their applications on chaotic systems.  
+**Brief Description** : Numerical study on the integration of classical and quantum equations of motions using a set of new quantum-inspired Trotterization algorithm, benchmarking, and their applications on chaotic systems such as motion under a honeycomb potential.  
 **Publication(s)** :
   - *Fourth-order leapfrog algorithms for numerical time evolution of classical and quantum systems* <br> Jun Hao Hue, Ege Eren, **Shao Hen Chiew**, Jonathan Wei Zhong Lau, Leo Chang, Thanh Tri Chau, Martin-Isbjörn Trappe, Berthold-Georg Englert <br> <a href="https://arxiv.org/abs/2007.05308" target="_blank">arXiv (2020).</a>
   
