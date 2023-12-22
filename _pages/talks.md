@@ -4,6 +4,7 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+1. *Scalable Quantum Computation of Highly Excited Eigenstates with Spectral Transforms* <br> APS March Meeting 2024. 06 Mar 2023, Contributed talk (accepted)
 1. *Multi-Objective Optimization and Network Routing with Near-Term Quantum Computers* <br> IPS (Institute of Physics Singapore) Meeting 2023 <br> 29 Sept 2023, Contributed talk
 1. *Quantum Algorithm for the Preparation of Highly Excited Eigenstates with Spectral Transforms* <br> IPS (Institute of Physics Singapore) Meeting 2023 <br> 29 Sept 2023, Contributed talk
 1. *Scalable Quantum Computation of Highly Excited Eigenstates with Spectral Transforms* <br> SQA (Superconducting Qubits and Algorithms) Conference 2023, Munich <br> 01 Sept 2023, Contributed talk
