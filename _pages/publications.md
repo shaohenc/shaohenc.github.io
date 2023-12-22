@@ -24,3 +24,7 @@ Recent first. Please refer to <a href="https://scholar.google.com/citations?user
 
 ## Others:
 1. *Optimization with OpenQAOA on Amazon Braket,* <a href="https://aws.amazon.com/blogs/quantum-computing/optimization-with-openqaoa-on-amazon-braket/" target="_blank">AWS Quantum Technologies Blog (2023).</a>
+
+1. *WO2023195922A1 : Methods, systems and kits for quantum-optimized cross-backend software development,* <a href="https://patents.google.com/patent/WO2023195922A1/en?oq=WO+2023/195922+A1" target="_blank">Google Patents (2023).</a>
+
+1. *Scalable Quantum Computation of Highly Excited Eigenstates with Spectral Transforms,* QIP 2024 (Poster presentation, accepted).</a> 
