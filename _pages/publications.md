@@ -7,9 +7,9 @@ author_profile: true
 
 Recent first. Please refer to <a href="https://scholar.google.com/citations?user=8m8Iiu8AAAAJ&hl=en" target="_blank">my Google Scholar profile</a> for an up-to-date list that can be sorted in order of chronology/citations.
 
-1. *Multi-Objective Optimization and Network Routing with Near-Term Quantum Computers* <br> **Shao-Hen Chiew**, Kilian Poirier, Rajesh Mishra, Ulrike Bornheimer, Ewan Munro, Si Han Foon, Christopher Wanru Chen, Wei Sheng Lim, Chee Wei Nga <br> <a href="https://arxiv.org/abs/2308.08245" target="_blank">arXiv (2023).</a>
+1. *Multi-Objective Optimization and Network Routing with Near-Term Quantum Computers* <br> **Shao-Hen Chiew**, Kilian Poirier, Rajesh Mishra, Ulrike Bornheimer, Ewan Munro, Si Han Foon, Christopher Wanru Chen, Wei Sheng Lim, Chee Wei Nga <br> <a href="https://arxiv.org/abs/2308.08245" target="_blank">arXiv (2023). Under review at IEEE Transactions on Quantum Engineering.</a>
 
-1. *Scalable Quantum Computation of Highly Excited Eigenstates with Spectral Transforms* <br> **Shao-Hen Chiew**, Leong-Chuan Kwek <br> <a href="https://arxiv.org/abs/2302.06638" target="_blank">arXiv (2023).</a>
+1. *Scalable Quantum Computation of Highly Excited Eigenstates with Spectral Transforms* <br> **Shao-Hen Chiew**, Leong-Chuan Kwek <br> <a href="https://arxiv.org/abs/2302.06638" target="_blank">arXiv (2023). Submitted to Nature Communications.</a>
 
 1. *Stability and dynamics of many-body localized systems coupled to a small bath* <br> **Shao-Hen Chiew**, Jiangbin Gong, Leong-Chuan Kwek, Chee-Kong Lee <br> <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.224202" target="_blank">Physical Review B 107 (22), 224202.</a>
 
