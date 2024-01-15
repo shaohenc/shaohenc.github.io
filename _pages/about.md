@@ -18,7 +18,7 @@ I have been working full-time with Entropica Labs since Sept 2021, and am curren
 My current research focus is the development of efficient simulation tools to study the fault-tolerance of error propagation properties of quantum error-correction codes, and the efficient compilation and implementation of topological QEC codes on existing hardware.  I also develop software tools in Python, such as [OpenQAOA](https://openqaoa.entropicalabs.com/).
 
     Related publications:
-- *Multi-Objective Optimization and Network Routing with Near-Term Quantum Computers* <br> **Shao-Hen Chiew**, Kilian Poirier, Rajesh Mishra, Ulrike Bornheimer, Ewan Munro, Si Han Foon, Christopher Wanru Chen, Wei Sheng Lim, Chee Wei Nga <br> <a href="https://arxiv.org/abs/2308.08245" target="_blank">arXiv (2023).</a>
+- *Multi-Objective Optimization and Network Routing with Near-Term Quantum Computers* <br> **Shao-Hen Chiew**, Kilian Poirier, Rajesh Mishra, Ulrike Bornheimer, Ewan Munro, Si Han Foon, Christopher Wanru Chen, Wei Sheng Lim, Chee Wei Nga <br> <a href="https://arxiv.org/abs/2308.08245" target="_blank">arXiv (2023). Under review at IEEE Transactions on Quantum Engineering.</a>
 - *OpenQAOA--An SDK for QAOA* <br> Vishal Sharma, Nur Shahidee Bin Saharan, **Shao-Hen Chiew**, Ezequiel Ignacio Rodríguez Chiacchio, Leonardo Disilvestro, Tommaso Federico Demarie, Ewan Munro <br> <a href="https://arxiv.org/abs/2210.08695" target="_blank">arXiv (2022).</a>
 
     Others:
@@ -38,7 +38,7 @@ Ordered by recent first.
 **Advisors** :	Leong-Chuan Kwek, Jiangbin Gong, Chee-Kong Lee  
 **Brief Description** : (1) Theoretical and numerical analyses of quantum algorithms to study the spectral properties of physical and chemical Hamiltonians. We proposed and analyzed the complexity of a quantum algorithm that is able to solve for highly-excited eigenstates in a targeted manner, using QLSP solvers as a subroutine. (2) Theoretical and numerical study of the information-theoretic properties of many-body localized systems. We studied the ergodic-localization phase transition of the disordered Heisenberg model, using sum-uncertainty relations involving the quantum Fisher information for entanglement detection.    
 **Publication(s)** :
-  - *Scalable Quantum Computation of Highly Excited Eigenstates with Spectral Transforms* <br> **Shao-Hen Chiew**, Leong-Chuan Kwek <br> <a href="https://arxiv.org/abs/2302.06638" target="_blank">arXiv (2023).</a>
+  - *Scalable Quantum Computation of Highly Excited Eigenstates with Spectral Transforms* <br> **Shao-Hen Chiew**, Leong-Chuan Kwek <br> <a href="https://arxiv.org/abs/2302.06638" target="_blank">arXiv (2023). Submitted to Nature Communications.</a>
   - *Exploring the Dynamics of Quantum Information in Many-Body Localised Systems with High Performance Computing* <br> **Shao-Hen Chiew**, Leong-Chuan Kwek, Chee-Kong Lee <br> <a href="https://link.springer.com/chapter/10.1007/978-3-031-10419-0_4" target="_blank">Asian Conference on Supercomputing Frontiers, 43-58.</a>
   
 - **BSc. Thesis Research (Center of Quantum Technologies, NUS)**  
