@@ -28,6 +28,12 @@ My current research focus is the development of efficient simulation tools to st
 My main research interests lie in understanding quantum information processing and many-body physics from an information-theoretic perspective. I am also interested in computational tools such as tensor networks that have deep connections to entanglement.
 
 Ordered by recent first.
+
+- **Ongoing Research Project (Entropica Labs)**  
+**Duration** : From	June-2023	To	Current  
+**Supervisor** :	Hui-Khoon Ng    
+**Brief Description** : We show that topological QEC codes can be embedded onto non-commensurating device topologies in a fault-tolerant manner via a geometrical routing procedure using SWAP gates. This can be achieved with only constant overhead in additional timesteps, preserves the underlying decoding problem, and furthermore results in only a constant deterioration in logical error rate and threshold that can be understood in terms of an effective noise model with spatially correlated noise. We illustrate the applicability of our scheme using the planar surface code embedded onto the heavy-hexagonal and hexagonal lattices, with resulting thresholds that deteriorate by a constant factor of ~3 and ~2 respectively. Our results can be readily generalized to LDPC codes and other device topologies, and paves the way to efficient implementations of QEC on quantum devices.
+
 - **Ongoing Research Project (Center of Quantum Technologies, NUS)**  
 **Duration** : From	Dec-2022	To	Current  
 **Supervisor** :	Leong-Chuan Kwek    
