@@ -25,14 +25,14 @@ My current research focus is the development of efficient simulation tools to st
 - *Optimization with OpenQAOA on Amazon Braket,* <a href="https://aws.amazon.com/blogs/quantum-computing/optimization-with-openqaoa-on-amazon-braket/" target="_blank">AWS Quantum Technologies Blog (2023).</a>
 
 ## Research Experiences:
-My main research interests lie in understanding quantum information processing and many-body physics from an information-theoretic perspective. I am also interested in computational tools such as tensor networks that have deep connections to entanglement.
-
 Ordered by recent first.
 
-- **Ongoing Research Project (Entropica Labs)**  
+- **Fault-tolerant embeddings of topological QEC codes (Entropica Labs)**  
 **Duration** : From	June-2023	To	Current  
 **Supervisor** :	Hui-Khoon Ng    
-**Brief Description** : We show that topological QEC codes can be embedded onto non-commensurating device topologies in a fault-tolerant manner via a geometrical routing procedure using SWAP gates. This can be achieved with only constant overhead in additional timesteps, preserves the underlying decoding problem, and furthermore results in only a constant deterioration in logical error rate and threshold that can be understood in terms of an effective noise model with spatially correlated noise. We illustrate the applicability of our scheme using the planar surface code embedded onto the heavy-hexagonal and hexagonal lattices, with resulting thresholds that deteriorate by a constant factor of ~3 and ~2 respectively. Our results can be readily generalized to LDPC codes and other device topologies, and paves the way to efficient implementations of QEC on quantum devices.
+**Brief Description** : We show that topological QEC codes can be embedded onto non-commensurating device topologies in a fault-tolerant manner via a geometrical routing procedure using SWAP gates. This can be achieved with only constant overhead in additional timesteps, preserves the underlying decoding problem, and furthermore results in only a constant deterioration in logical error rate and threshold that can be understood in terms of an effective noise model with spatially correlated noise. We illustrate the applicability of our scheme using the planar surface code embedded onto the heavy-hexagonal and hexagonal lattices, with resulting thresholds that deteriorate by constant factors of ~3 and ~2 respectively. Our results can be readily generalized to LDPC codes and other device topologies, and can be systematically improved at the hardware level via improved implementations of the SWAP gate.
+  **Publication(s)** :
+  - *Fault-tolerant embeddings of topological QEC codes* <br> **Shao Hen Chiew**, Jing Hao Chai, Ezequiel Ignacio Rodríguez Chiacchio, Vishal Sharma, Hui Khoon Ng <br> (In preparation)
 
 - **Ongoing Research Project (Center of Quantum Technologies, NUS)**  
 **Duration** : From	Dec-2022	To	Current  
