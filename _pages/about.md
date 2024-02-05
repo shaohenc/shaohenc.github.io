@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-My research interests lie at the intersection of quantum computing, quantum information, and many-body physics, with an emphasis on computational methods on both classical and quantum computers.
+My research interests lie at the intersection of quantum information processing and many-body physics, with an emphasis on computational methods on both classical and quantum computers.
 
 I hold a **BSc. Physics (2021)** and **MSc. Physics (2023)** from the National University of Singapore, and a **MSc. Engineering/diplôme d'ingénieur (2023)** from Mines Paris-PSL, as a part of the concurrent Masters [NUS French Double Degree Programme](https://fddp.nus.edu.sg/index.html).
 
 ## Current employment:
-I have been working full-time with Entropica Labs since Sept 2021, and am currently a Senior Quantum Computing Scientist working on fault-tolerant quantum error correction and quantum algorithms for optimization applications. The main scopes of my work are the research, development and implementation of near-term quantum algorithms, error-mitigation techniques, and error-correction codes. 
+I have been working full-time with Entropica Labs since Sept 2021, and am currently a Senior Quantum Computing Scientist working on fault-tolerant quantum error correction. The main scopes of my work are the research and development of near-term quantum algorithms, error-mitigation techniques, and error-correction codes. 
 
-My current research focus is the development of efficient simulation tools to study the fault-tolerance of error propagation properties of quantum error-correction codes, and the efficient compilation and implementation of topological QEC codes on existing hardware.  I also develop software tools in Python, such as [OpenQAOA](https://openqaoa.entropicalabs.com/).
+My current research focus is the development of efficient simulation tools to study the fault-tolerance of error propagation properties of quantum error-correction codes, and the efficient compilation and implementation of topological QEC codes on existing quantum devices.  I also develop software tools in Python, such as [OpenQAOA](https://openqaoa.entropicalabs.com/).
 
     Related publications:
 - *Multi-Objective Optimization and Network Routing with Near-Term Quantum Computers* <br> **Shao-Hen Chiew**, Kilian Poirier, Rajesh Mishra, Ulrike Bornheimer, Ewan Munro, Si Han Foon, Christopher Wanru Chen, Wei Sheng Lim, Chee Wei Nga <br> <a href="https://arxiv.org/abs/2308.08245" target="_blank">arXiv (2023). Under review at IEEE Transactions on Quantum Engineering.</a>
@@ -29,14 +29,14 @@ Ordered by recent first.
 
 - **Fault-tolerant embeddings of topological QEC codes (Entropica Labs)**  
 **Duration** : From	June-2023	To	Current  
-**Supervisor** :	Hui-Khoon Ng    
-**Brief Description** : We show that topological QEC codes can be embedded onto non-commensurating device topologies in a fault-tolerant manner via a geometrical routing procedure using SWAP gates. This can be achieved with only constant overhead in additional timesteps, preserves the underlying decoding problem, and furthermore results in only a constant deterioration in logical error rate and threshold that can be understood in terms of an effective noise model with spatially correlated noise. We illustrate the applicability of our scheme using the planar surface code embedded onto the heavy-hexagonal and hexagonal lattices, with resulting thresholds that deteriorate by constant factors of ~3 and ~2 respectively. Our results can be readily generalized to LDPC codes and other device topologies, and can be systematically improved at the hardware level via improved implementations of the SWAP gate.
-  **Publication(s)** :
-  - *Fault-tolerant embeddings of topological QEC codes* <br> **Shao Hen Chiew**, Jing Hao Chai, Ezequiel Ignacio Rodríguez Chiacchio, Vishal Sharma, Hui Khoon Ng <br> (In preparation)
+**Supervisor** :	Prof. Hui-Khoon Ng    
+**Brief Description** : We show that topological QEC codes can be embedded onto non-commensurating device topologies in a fault-tolerant manner via a geometrical routing procedure using SWAP gates. This can be achieved with only constant overhead in additional timesteps, preserves the underlying decoding problem of the code, and furthermore results in only a constant deterioration in logical error rate and threshold that can be understood in terms of an effective noise model with spatially correlated noise. We illustrate the applicability of our scheme using the planar surface code embedded onto the heavy-hexagonal and hexagonal lattices, with resulting thresholds that deteriorate by constant factors of ~3 and ~2 respectively. Our results can be readily generalized to LDPC codes and other device topologies, and can be systematically improved at the hardware level via improved implementations of the SWAP gate.  
+**Publication(s)** :
+  - *Fault-tolerant embeddings of topological QEC codes* <br> **Shao-Hen Chiew**, Jing Hao Chai, Ezequiel Ignacio Rodríguez Chiacchio, Vishal Sharma, Hui Khoon Ng <br> (In preparation)
 
 - **Ongoing Research Project (Center of Quantum Technologies, NUS)**  
 **Duration** : From	Dec-2022	To	Current  
-**Supervisor** :	Leong-Chuan Kwek    
+**Supervisor** :	Prof. Leong-Chuan Kwek    
 **Brief Description** : Extension and generalization of our proposed quantum algorithm to larger classes of spectral transformations to study the spectral properties of physical and chemical Hamiltonians. Implementation on quantum computers to probe the ergodic-MBL mobility edge.  
 
 - **MSc. Thesis Research (Center of Quantum Technologies, NUS)**  
