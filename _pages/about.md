@@ -30,9 +30,7 @@ Ordered by recent first.
 - **Fault-tolerant embeddings of topological QEC codes (Entropica Labs)**  
 **Duration** : From	June-2023	To	Current  
 **Supervisor** :	Prof. Hui-Khoon Ng    
-**Brief Description** : We show that topological QEC codes can be embedded onto non-commensurating device topologies in a fault-tolerant manner via a geometrical routing procedure using SWAP gates. This can be achieved with only constant overhead in additional timesteps, preserves the underlying decoding problem of the code, and furthermore results in only a constant deterioration in logical error rate and threshold that can be understood in terms of an effective noise model with spatially correlated noise. We illustrate the applicability of our scheme using the planar surface code embedded onto the heavy-hexagonal and hexagonal lattices, with resulting thresholds that deteriorate by constant factors of ~3 and ~2 respectively. Our results can be readily generalized to LDPC codes and other device topologies, and can be systematically improved at the hardware level via improved implementations of the SWAP gate.  
-**Publication(s)** :
-  - *Fault-tolerant embeddings of topological QEC codes* <br> **Shao-Hen Chiew**, Jing Hao Chai, Ezequiel Ignacio Rodríguez Chiacchio, Vishal Sharma, Hui Khoon Ng <br> (In preparation)
+**Brief Description** : We investigate ways of embedding topological QEC codes onto non-commensurating device topologies in a fault-tolerant manner.
 
 - **Ongoing Research Project (Center of Quantum Technologies, NUS)**  
 **Duration** : From	Dec-2022	To	Current  
