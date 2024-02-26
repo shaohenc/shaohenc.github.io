@@ -30,7 +30,7 @@ Ordered by recent first.
 - **Fault-tolerant embeddings of topological QEC codes (Entropica Labs)**  
 **Duration** : From	June-2023	To	Current  
 **Supervisor** :	Prof. Hui-Khoon Ng    
-**Brief Description** : We investigate ways of embedding topological QEC codes onto non-commensurating device topologies in a fault-tolerant manner. Publication targeting PRX in preparation.
+**Brief Description** : We propose a general framework to embed QEC codes onto non-commensurating device topologies in a fault-tolerant manner. Publication targeting PRX in preparation.
 
 - **Ongoing Research Project (Center of Quantum Technologies, NUS)**  
 **Duration** : From	Dec-2022	To	Current  
