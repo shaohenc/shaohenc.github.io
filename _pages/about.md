@@ -27,7 +27,7 @@ My current research focus is the development of efficient simulation tools to st
 ## Research Experiences:
 Ordered by recent first.
 
-- **Fault-tolerant embeddings of topological QEC codes (Entropica Labs)**  
+- **Robust fault-tolerant compilation of QEC codes (Entropica Labs)**  
 **Duration** : From	June-2023	To	Current  
 **Supervisor** :	Prof. Hui-Khoon Ng    
 **Brief Description** : We propose a general framework to embed QEC codes onto non-commensurating device topologies in a fault-tolerant manner. Publication targeting PRX in preparation.
