@@ -27,7 +27,7 @@ My current research focus is the development of efficient simulation tools to st
 ## Research Experiences:
 Ordered by recent first.
 
-- **Robust fault-tolerant compilation of QEC codes (Entropica Labs)**  
+- **Robust fault-tolerant compilation of QEC circuits (Entropica Labs)**  
 **Duration** : From	June-2023	To	Current  
 **Supervisor** :	Prof. Hui-Khoon Ng    
 **Brief Description** : We propose a general framework to embed QEC codes onto non-commensurating device topologies in a fault-tolerant manner. Publication targeting PRX in preparation.
@@ -42,7 +42,7 @@ Ordered by recent first.
 **Advisors** :	Leong-Chuan Kwek, Jiangbin Gong, Chee-Kong Lee  
 **Brief Description** : (1) Theoretical and numerical analyses of quantum algorithms to study the spectral properties of physical and chemical Hamiltonians. We proposed and analyzed the complexity of a quantum algorithm that is able to solve for highly-excited eigenstates in a targeted manner, using QLSP solvers as a subroutine. (2) Theoretical and numerical study of the information-theoretic properties of many-body localized systems. We studied the ergodic-localization phase transition of the disordered Heisenberg model, using sum-uncertainty relations involving the quantum Fisher information for entanglement detection.    
 **Publication(s)** :
-  - *Scalable Quantum Computation of Highly Excited Eigenstates with Spectral Transforms* <br> **Shao-Hen Chiew**, Leong-Chuan Kwek <br> <a href="https://arxiv.org/abs/2302.06638" target="_blank">arXiv (2023). Submitted to Nature Communications.</a>
+  - *Scalable Quantum Computation of Highly Excited Eigenstates with Spectral Transforms* <br> **Shao-Hen Chiew**, Leong-Chuan Kwek <br> <a href="https://arxiv.org/abs/2302.06638" target="_blank">arXiv (2023). <br> <a href="https://www.youtube.com/watch?v=_wq9zQkjva0&t=11731s&ab_channel=SuperconductingQubitsandAlgorithmsConference" target="_blank">Recorded talk for SQA conference. </a> 
   - *Exploring the Dynamics of Quantum Information in Many-Body Localised Systems with High Performance Computing* <br> **Shao-Hen Chiew**, Leong-Chuan Kwek, Chee-Kong Lee <br> <a href="https://link.springer.com/chapter/10.1007/978-3-031-10419-0_4" target="_blank">Asian Conference on Supercomputing Frontiers, 43-58.</a>
   
 - **BSc. Thesis Research (Center of Quantum Technologies, NUS)**  
