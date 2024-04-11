@@ -18,7 +18,7 @@ I have been working full-time with Entropica Labs since Sept 2021, and am curren
 My current research focus is the development of efficient simulation tools to study the fault-tolerance of error propagation properties of quantum error-correction codes, and the efficient compilation and implementation of topological QEC codes on existing quantum devices.  I also develop software tools in Python, such as [OpenQAOA](https://openqaoa.entropicalabs.com/).
 
     Related publications:
-- *Multi-Objective Optimization and Network Routing with Near-Term Quantum Computers* <br> **Shao-Hen Chiew**, Kilian Poirier, Rajesh Mishra, Ulrike Bornheimer, Ewan Munro, Si Han Foon, Christopher Wanru Chen, Wei Sheng Lim, Chee Wei Nga <br> <a href="https://arxiv.org/abs/2308.08245" target="_blank">arXiv (2023). IEEE Transactions on Quantum Engineering.</a>
+- *Multi-Objective Optimization and Network Routing with Near-Term Quantum Computers* <br> **Shao-Hen Chiew**, Kilian Poirier, Rajesh Mishra, Ulrike Bornheimer, Ewan Munro, Si Han Foon, Christopher Wanru Chen, Wei Sheng Lim, Chee Wei Nga <br> <a href="https://arxiv.org/abs/2308.08245" target="_blank">arXiv (2023). Accepted, IEEE Transactions on Quantum Engineering.</a>
 - *OpenQAOA--An SDK for QAOA* <br> Vishal Sharma, Nur Shahidee Bin Saharan, **Shao-Hen Chiew**, Ezequiel Ignacio Rodríguez Chiacchio, Leonardo Disilvestro, Tommaso Federico Demarie, Ewan Munro <br> <a href="https://arxiv.org/abs/2210.08695" target="_blank">arXiv (2022).</a>
 
     Others:
@@ -27,10 +27,10 @@ My current research focus is the development of efficient simulation tools to st
 ## Research Experiences:
 Ordered by recent first.
 
-- **Robust fault-tolerant compilation of QEC circuits (Entropica Labs)**  
+- **Robust fault-tolerant compilation of QEC codes and circuit components (Entropica Labs)**  
 **Duration** : From	June-2023	To	Current  
 **Supervisor** :	Prof. Hui-Khoon Ng    
-**Brief Description** : We propose a general framework to embed QEC codes onto non-commensurating device topologies in a fault-tolerant manner. Publication targeting PRX in preparation.
+**Brief Description** : We propose a general framework to embed QEC codes onto non-commensurating device topologies in a fault-tolerant manner. Publication targeting PRX/PRXQ in preparation.
 
 - **Ongoing Research Project (Center of Quantum Technologies, NUS)**  
 **Duration** : From	Dec-2022	To	Current  
