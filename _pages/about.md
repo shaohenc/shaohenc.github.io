@@ -30,7 +30,9 @@ Ordered by recent first.
 - **Robust fault-tolerant compilation of QEC codes and circuit components (Entropica Labs)**  
 **Duration** : From	June-2023	To	Current  
 **Supervisor** :	Prof. Hui-Khoon Ng    
-**Brief Description** : We propose a general framework to embed QEC codes onto non-commensurating device topologies in a fault-tolerant manner. Publication targeting PRX/PRXQ in preparation.
+**Brief Description** : We propose a general framework to embed QEC codes onto non-commensurating device topologies in a fault-tolerant manner. Publication targeting PRL in preparation.
+**Publication(s)** :
+  - *Fault-tolerant embedding of quantum circuits on hardware architectures via swap gates* <br> **Shao-Hen Chiew**, Ezequiel Ignacio Rodriguez Chiacchio, Vishal Sharma, Jing Hao Chai, Hui Khoon Ng <br> <a href="https://arxiv.org/abs/2406.17044" target="_blank">arXiv (2024).</a>
 
 - **Ongoing Research Project (Center of Quantum Technologies, NUS)**  
 **Duration** : From	Dec-2022	To	Current  
